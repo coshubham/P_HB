@@ -156,7 +156,7 @@ const _slideEnam = function () {
 new TypeIt("#teks1", {
   strings: ["Happy Birthday Prachi Ji🥰🤗🎂", "Mari Madam Ji", "Khush raho Be happy Smile Aap ka upar bohot acha laga ta hai ji Kisi ki Naajar🧿 na laga aapko 🫰🤌🧿 God Kara ki mere hisa ki bhi Khushi Aapko Miljaa aa Madam Ji 🤌🤗🫂 Aur Jaada tension maat liya Karo koi bhi baat ka Madam Ji Jo bhi ho aa thik ho aa aur Aapna bola tha na ki Aapko fake people aapna life ma nhi chahiye Bas god vo hi toh kar raha hai toh chill raho jisko hona hoga vo aapka life ma rahaga. jo Maan ma aa vo karo aur Jo bhi past ma hu aa late go karo aur life Enjoy karo aur tumhara Saara dream pura ho Aur ma tumhare sath hamasa raho ga so Enjoy your day 🎉🎉🎂 Happy Birthday Madam JI once again Mari pasandidar aurat 😉😉🤗🤌🏻🧿."," ","God bless you Madam Ji 🧿."],
   startDelay: 1000,
-  speed: 65,
+  speed: 55,
   waitUntilVisible: true
 }).go();
 
@@ -172,7 +172,7 @@ new TypeIt("#teks2", {
 "Ya Mummy Ji ki taraf sa:-","Happy Birthday 🎂🎂🍫."
 ," ",],
   startDelay: 1000,
-  speed: 65,
+  speed: 55,
   waitUntilVisible: true
 }).go();
 
